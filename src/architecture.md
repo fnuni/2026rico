@@ -1,8 +1,8 @@
 # Architecture Documentation
 
 **Paper:** Hybrid Neural–Heuristic TSP Solver with Attention-Guided Refinement for Real-Time AMR Coordination  
-**Authors:** Francesco Nucci, Gabriele Papadia  
-**Institution:** University of Salento  
+**Authors:** BLIND REVIEW 
+**Institution:** BLIND REVIEW 
 
 ---
 
@@ -347,9 +347,9 @@ plt.show()
 If you use this architecture, please cite:
 
 ```bibtex
-@article{nucci2026hybrid,
+@article{cori2026hybrid,
   title={Hybrid Neural–Heuristic TSP Solver with Attention-Guided Refinement for Real-Time AMR Coordination},
-  author={Nucci, Francesco and Papadia, Gabriele},
+  author={BLIND REVIEW},
   journal={Results in Control and Optimization},
   year={2026},
   publisher={Elsevier}
@@ -360,7 +360,7 @@ If you use this architecture, please cite:
 
 ## 10. Contact
 
-**Questions:** francesco.nucci@unisalento.it  
+**Questions:** BLIND REVIEW  
 **Repository:** https://github.com/fnuni/2026rico  
 **Paper:** [DOI to be assigned]
 

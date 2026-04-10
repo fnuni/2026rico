@@ -2,8 +2,8 @@
 # ============================================================
 # Paper: "Hybrid Neural–Heuristic TSP Solver with Attention-Guided 
 #         Refinement for Real-Time AMR Coordination"
-# Authors: Francesco Nucci, Gabriele Papadia
-# Institution: University of Salento
+# Authors: BLIND REVIEW
+# Institution: BLIND REVIEW
 # Year: 2026
 
 # Core Deep Learning Framework
